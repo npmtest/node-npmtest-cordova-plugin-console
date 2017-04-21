@@ -1,0 +1,39 @@
+<svg height="574" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="574" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 16:35:13 +0000    89273 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 16:35:13 +0000     1401 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 16:35:13 +0000    11357 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 16:35:13 +0000      163 bytes  NOTICE</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 16:35:13 +0000     5075 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 16:35:13 +0000     5936 bytes  RELEASENOTES.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 16:35:13 +0000     2281 bytes  doc/de/README.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 16:35:13 +0000     2074 bytes  doc/de/index.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 16:35:13 +0000     2086 bytes  doc/es/README.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 16:35:13 +0000     1874 bytes  doc/es/index.md</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 16:35:13 +0000     2142 bytes  doc/fr/README.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 16:35:13 +0000     1933 bytes  doc/fr/index.md</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 16:35:13 +0000     2094 bytes  doc/it/README.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 16:35:13 +0000     1881 bytes  doc/it/index.md</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 16:35:13 +0000     2373 bytes  doc/ja/README.md</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 16:35:13 +0000     2163 bytes  doc/ja/index.md</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 16:35:13 +0000     2236 bytes  doc/ko/README.md</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 16:35:13 +0000     2027 bytes  doc/ko/index.md</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 16:35:13 +0000     2118 bytes  doc/pl/README.md</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 16:35:13 +0000     1905 bytes  doc/pl/index.md</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 16:35:13 +0000     1968 bytes  doc/ru/index.md</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 16:35:13 +0000     2052 bytes  doc/zh/README.md</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 16:35:13 +0000     1842 bytes  doc/zh/index.md</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 16:35:13 +0000      999 bytes  package.json</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 16:35:13 +0000     4085 bytes  plugin.xml</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 16:35:13 +0000      895 bytes  src/ios/CDVLogger.h</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 16:35:13 +0000     1152 bytes  src/ios/CDVLogger.m</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 16:35:13 +0000      924 bytes  src/ubuntu/console.cpp</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 16:35:13 +0000     1103 bytes  src/ubuntu/console.h</tspan>
+<tspan x="10" y="490"> 29.  2017-04-21 16:35:13 +0000     1354 bytes  src/wp/DebugConsole.cs</tspan>
+<tspan x="10" y="506"> 30.  2017-04-21 16:35:13 +0000     1216 bytes  tests/plugin.xml</tspan>
+<tspan x="10" y="522"> 31.  2017-04-21 16:35:13 +0000     1526 bytes  tests/tests.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-21 16:35:13 +0000     6805 bytes  www/console-via-logger.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-21 16:35:13 +0000    10233 bytes  www/logger.js</tspan>
+</text>
+</svg>
